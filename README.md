@@ -20,7 +20,7 @@ Example sentences are searched from https://sentencedict.com/.
 | It appears that        | **It appears that** all the files have been deleted.                                               |
 | I suppose              | **I suppose** it is just conceivable that we have made a mistake.                                  |
 | I realize              | **I realize** this is not an ideal situation.                                                      |
-| I understand           | **I understand** some of the concepts of the theory but I'm not sure about its details.            |
+| I understand           | **I understand** some of the concepts of the theory, but I am not sure about its details.          |
 | I imagine              | **I imagine** that the work will be structured in two different ways.                              |
 | I feel                 | **I feel** very proud to be a part of the team.                                                    |
 
@@ -41,20 +41,26 @@ Example sentences are searched from https://sentencedict.com/.
 
 ## 🤗 Comparing
 
-| Phrase             | Example |
-| ------------------ | ------- |
-| However,           |         |
-| But                |         |
-| On the contrary,   |         |
-| On the other hand, |         |
-| Differ from        |         |
-| Nevertheless       |         |
-| Although           |         |
-| Though             |         |
-| Otherwise          |         |
-| Instead            |         |
-| Alternatively,     |         |
-| Even though        |         |
+| Phrase             | Example                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------- |
+| However,           | This is a cheap and simple process. **However,** there are dangers.                               |
+| But                | The area has a large, **but** politically inactive population.                                    |
+| On the contrary,   | It wasn't a good thing; **on the contrary,** it was a huge mistake.                               |
+| On the other hand, | Hypomania, **on the other hand,** may in some circumstances be positively advantageous.           |
+| Differ from        | The two theories **differ from** each other in many ways.                                         |
+| Nevertheless       | The old system had its flaws. **Nevertheless**, it was preferable to the new one.                 |
+| Although           | **Although** the main characters in the novel are so true to life, they are imaginary.            |
+| Though             | **Though** the wound be healed yet a scar remains.                                                |
+| Even though        | **Even though** he was getting angry, his voice remained level.                                   |
+| Otherwise          | We need to take action to protect the environment. **Otherwise**, polar bears will be homeless.   |
+| Instead of         | They raised prices and cut production, **instead of** cutting costs.                              |
+| Alternatively,     | The agency will make travel arrangements. **Alternatively**, you can organize your own transport. |
+
+> - [But vs. However vs. Nevertheless](https://blog.amazingtalker.com/zh-hk/hk-eng/%E8%8B%B1%E6%96%87%E4%BD%9C%E6%96%87-5%E5%80%8B%E5%B8%B8%E7%94%A8%E8%8B%B1%E6%96%87%E6%AF%94%E8%BC%83-%E5%B0%8D%E6%AF%94%E9%80%A3%E6%8E%A5%E8%A9%9E/5637/)
+> - [Though vs. Although vs. Even though](https://www.hopenglish.com/hope-tips-use-though-at-the-end-of-a-sentence)
+> - [Although vs. Despite](https://www.hopenglish.com/difference-between-although-and-despite)
+> - [Instead vs. Instead of](https://www.hopenglish.com/hope-tips-instead-of-and-instead)
+> - [Usage of "Otherwise"](https://english.cool/otherwise/)
 
 ## 🤔 Generalizing
 
