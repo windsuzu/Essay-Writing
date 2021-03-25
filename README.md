@@ -64,22 +64,22 @@ Example sentences are searched from https://sentencedict.com/.
 
 ## 🤔 Generalizing
 
-| Phrase                | Example |
-| --------------------- | ------- |
-| Generally,            |         |
-| Generally speaking,   |         |
-| Overall,              |         |
-| On the whole,         |         |
-| In general,           |         |
-| By and large,         |         |
-| It seems to me that   |         |
-| I believe             |         |
-| All in all,           |         |
-| Basically,            |         |
-| Essentially,          |         |
-| As a rule,            |         |
-| All things considered |         |
-| For the most part     |         |
+| Phrase                | Example                                                                   |
+| --------------------- | ------------------------------------------------------------------------- |
+| Generally,            | **Generally,** a book needs to have an introduction.                      |
+| Generally speaking,   | **Generally speaking,** it's quite a fair settlement.                     |
+| Overall,              | **Overall,** there were more losers than gainers.                         |
+| On the whole,         | **On the whole,** the public are conservative about education.            |
+| In general,           | **In general,** a plain carpet makes a room look bigger.                  |
+| By and large,         | **By and large,** the new arrangements have worked well.                  |
+| It seems to me that   | **It seems to me that** there is something funny about the case.          |
+| I believe             | **I believe** that every person is born with talent.                      |
+| All in all,           | **All in all,** the condition is greatly improved.                        |
+| Basically,            | **Basically,** the article can be summarized in three sentences.          |
+| Essentially,          | **Essentially,** what we are suggesting is that the firm needs to change. |
+| As a rule,            | **As a rule,** this portion is uncontaminated.                            |
+| All things considered | **All things considered,** the price would be reasonable.                 |
+| For the most part     | **For the most part,** they heeded my advice.                             |
 
 ## 🙂 Expressing Certainty
 
