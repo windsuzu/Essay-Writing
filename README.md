@@ -83,34 +83,39 @@ Example sentences are searched from https://sentencedict.com/.
 
 ## 🙂 Expressing Certainty
 
-| Phrase       | Example |
-| ------------ | ------- |
-| Certainly,   |         |
-| Undoubtedly, |         |
-| Doubtless,   |         |
-| No doubt,    |         |
-| Definitely,  |         |
-| Of course,   |         |
+| Phrase       | Example                                                                                   |
+| ------------ | ----------------------------------------------------------------------------------------- |
+| Certainly,   | **Certainly,** the early learning years are crucial to a child's educational development. |
+| Undoubtedly, | **Undoubtedly,** public interest in folk music has declined.                              |
+| Doubtless,   | **Doubtless** you will have heard the news already.                                       |
+| No doubt,    | **No doubt** the truth will come out one day.                                             |
+| Definitely,  | **Definitely,** there are multiple points that we need to improve on.                     |
+| Of course,   | **Of course,** this is just a personal opinion.                                           |
+
+> - [Doubtless vs. undoubtedly](https://forum.wordreference.com/threads/doubtless-and-undoubtedly.107100/)
+> - [Should I use “definitely” at the beginning of a sentence?](https://ell.stackexchange.com/questions/152441/should-i-use-definitely-at-the-beginning-of-a-sentence)
 
 ## 🤩 Expressing Partial Agreement
 
-| Phrase          | Example |
-| --------------- | ------- |
-| More or less,   |         |
-| To some extent, |         |
-| Up to a point,  |         |
-| Almost,         |         |
-| In a way,       |         |
-| So to speak,    |         |
+| Phrase          | Example                                                                   |
+| --------------- | ------------------------------------------------------------------------- |
+| more or less    | The project was **more or less** a success.                               |
+| To some extent, | **To some extent,** we are all responsible for this tragic situation.     |
+| Up to a point,  | The new traffic scheme worked **up to a point,** but it had its problems. |
+| Almost,         | **Almost** every country has some form of religion.                       |
+| In a way,       | **In a way** it was one of our biggest mistakes.                          |
+| So to speak,    | Code of commerce, **so to speak.**                                        |
 
 ## 😘 Showing cause
 
-| Phrase     | Example |
-| ---------- | ------- |
-| Due to     |         |
-| Because    |         |
-| Because of |         |
-| Owing to   |         |
+| Phrase     | Example                                                                     | Limit                                     |
+| ---------- | --------------------------------------------------------------------------- | ----------------------------------------- |
+| Be due to  | The problem may **be due to** poor workmanship.                             | `noun or GER` + be due to + `noun or GER` |
+| Because    | **Because** the time is limited, we have to bring the discussion to an end. | `clause` + because + `clause`             |
+| Because of | The fire spread very rapidly **because of** the strong wind.                | `clause` + because of + `noun or GER`     |
+| Owing to   | **Owing to** the rain, the match was canceled.                              | `clause` + owing to + `noun or GER`       |
+
+> - [Due to vs. Because vs. Because of vs. Owing to](https://blog.amazingtalker.com/zh-tw/zh-eng/due-to%E3%80%81because-of-%E6%AD%A3%E7%A2%BA%E7%94%A8%E6%B3%95/3763/)
 
 ## 😆 Showing effect
 
