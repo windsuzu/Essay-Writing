@@ -30,12 +30,12 @@ Example sentences are searched from https://sentencedict.com/.
 | --------------- | ------------------------------------------------------------------------------------------------ |
 | For example,    | There is a similar word in many languages, **for example**, in French and Italian.               |
 | For instance,   | There are a number of improvements; **for instance,** both mouse buttons can now be used.        |
-| such as         | Playing together teaches children social conventions **such as** sharing.                        |
+| Such as         | Playing together teaches children social conventions **such as** sharing.                        |
 | In other words, | The mobile library services have been reorganized — **in other words,** they visit fewer places. |
-| as              | Use a book **as** a bee does flowers.                                                            |
-| like            | Genius without education is **like** silver in the mine.                                         |
-| that is         | A food **that is** too fatty may cause indigestion.                                              |
-| namely          | We need to concentrate on our target audience, **namely** women aged between 20 and 30.          |
+| As              | Use a book **as** a bee does flowers.                                                            |
+| Like            | Genius without education is **like** silver in the mine.                                         |
+| That is         | A food **that is** too fatty may cause indigestion.                                              |
+| Namely          | We need to concentrate on our target audience, **namely** women aged between 20 and 30.          |
 | To illustrate   | **To illustrate**, consider discount security with 246 days and a discount rate of 9.43 percent. |
 | To paraphrase   | **To paraphrase** Finkelstein, mathematics is a language, like English.                          |
 
@@ -99,7 +99,7 @@ Example sentences are searched from https://sentencedict.com/.
 
 | Phrase          | Example                                                                   |
 | --------------- | ------------------------------------------------------------------------- |
-| more or less    | The project was **more or less** a success.                               |
+| More or less    | The project was **more or less** a success.                               |
 | To some extent, | **To some extent,** we are all responsible for this tragic situation.     |
 | Up to a point,  | The new traffic scheme worked **up to a point,** but it had its problems. |
 | Almost,         | **Almost** every country has some form of religion.                       |
@@ -119,18 +119,24 @@ Example sentences are searched from https://sentencedict.com/.
 
 ## 😆 Showing effect
 
-| Phrase           | Example |
-| ---------------- | ------- |
-| Therefore,       |         |
-| As a result,     |         |
-| Consequently,    |         |
-| For this reason, |         |
-| Thus,            |         |
-| So,              |         |
-| thereby          |         |
-| Eventually,      |         |
-| Hence,           |         |
-| The reason why   |         |
+| Phrase           | Example                                                                                                                |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Therefore,       | We do not have enough money. **Therefore,** we cannot afford to buy the new car.                                       |
+| As a result,     | **As a result,** services have been drastically reduced.                                                               |
+| Consequently,    | **Consequently,** many countries prefer alternative policies.                                                          |
+| For this reason, | **For this reason,** a mechanism must be built to ensure that assessors can be monitored and supported.                |
+| Thus             | The university has drastically lowered its tuition, **thus** allowing many more people the chance of higher education. |
+| So               | It’s raining heavily outside, **so** I’ve decided to stay home and learn English withVoiceTube.                        |
+| Thereby          | He became a citizen, **thereby** gaining the right to vote.                                                            |
+| Eventually,      | **Eventually,** Roberto backed down and apologized.                                                                    |
+| Hence            | Jenny is slimmer and **hence** more attractive.                                                                        |
+| The reason why   | **The reason why** Elaine quit school *was that* she needed to take care of her sick mom.                                |
+||Jeff's gentle manner is one of **the reasons why** Mary fell in love with him.|
+
+> - [Thus vs. Therefore vs. Hence](https://esenglishlounge.com/2018/01/07/%E8%A9%9E%E5%BD%99%E5%8D%80%E5%88%A5-thus-therefore-hence%EF%BC%9F/)
+> - [Therefore vs. so](https://www.learnwithkak.com/so-%E5%92%8C-therefore-%E7%9A%84%E7%94%A8%E6%B3%95%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C/)
+> - [Finally vs. Eventually](http://blogs.teachersammy.com/Blogs/entry/what-difference-between-English-words-finally-eventually#.YGCQL2QzZWM)
+
 
 ## 😳 Marking time
 
