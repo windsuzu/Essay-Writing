@@ -45,7 +45,7 @@ Example sentences are searched from https://sentencedict.com/.
 | ------------------ | ------------------------------------------------------------------------------------------------- |
 | However,           | This is a cheap and simple process. **However,** there are dangers.                               |
 | But                | The area has a large, **but** politically inactive population.                                    |
-| On the contrary,   | It wasn't a good thing; **on the contrary,** it was a huge mistake.                               |
+| On the contrary,   | It wasn’t a good thing; **on the contrary,** it was a huge mistake.                               |
 | On the other hand, | Hypomania, **on the other hand,** may in some circumstances be positively advantageous.           |
 | Differ from        | The two theories **differ from** each other in many ways.                                         |
 | Nevertheless       | The old system had its flaws. **Nevertheless**, it was preferable to the new one.                 |
@@ -67,7 +67,7 @@ Example sentences are searched from https://sentencedict.com/.
 | Phrase                | Example                                                                   |
 | --------------------- | ------------------------------------------------------------------------- |
 | Generally,            | **Generally,** a book needs to have an introduction.                      |
-| Generally speaking,   | **Generally speaking,** it's quite a fair settlement.                     |
+| Generally speaking,   | **Generally speaking,** it’s quite a fair settlement.                     |
 | Overall,              | **Overall,** there were more losers than gainers.                         |
 | On the whole,         | **On the whole,** the public are conservative about education.            |
 | In general,           | **In general,** a plain carpet makes a room look bigger.                  |
@@ -85,7 +85,7 @@ Example sentences are searched from https://sentencedict.com/.
 
 | Phrase       | Example                                                                                   |
 | ------------ | ----------------------------------------------------------------------------------------- |
-| Certainly,   | **Certainly,** the early learning years are crucial to a child's educational development. |
+| Certainly,   | **Certainly,** the early learning years are crucial to a child’s educational development. |
 | Undoubtedly, | **Undoubtedly,** public interest in folk music has declined.                              |
 | Doubtless,   | **Doubtless** you will have heard the news already.                                       |
 | No doubt,    | **No doubt** the truth will come out one day.                                             |
@@ -130,8 +130,8 @@ Example sentences are searched from https://sentencedict.com/.
 | Thereby          | He became a citizen, **thereby** gaining the right to vote.                                                            |
 | Eventually,      | **Eventually,** Roberto backed down and apologized.                                                                    |
 | Hence            | Jenny is slimmer and **hence** more attractive.                                                                        |
-| The reason why   | **The reason why** Elaine quit school *was that* she needed to take care of her sick mom.                                |
-||Jeff's gentle manner is one of **the reasons why** Mary fell in love with him.|
+| The reason why   | **The reason why** Elaine quit school *was that* she needed to take care of her sick mom.                              |
+|                  | Jeff’s gentle manner is one of **the reasons why** Mary fell in love with him.                                         |
 
 > - [Thus vs. Therefore vs. Hence](https://esenglishlounge.com/2018/01/07/%E8%A9%9E%E5%BD%99%E5%8D%80%E5%88%A5-thus-therefore-hence%EF%BC%9F/)
 > - [Therefore vs. so](https://www.learnwithkak.com/so-%E5%92%8C-therefore-%E7%9A%84%E7%94%A8%E6%B3%95%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C/)
@@ -140,32 +140,30 @@ Example sentences are searched from https://sentencedict.com/.
 
 ## 😳 Marking time
 
-| Phrase            | Example |
-| ----------------- | ------- |
-| First,            |         |
-| Last              |         |
-| Second,           |         |
-| Lastly,           |         |
-| Third,            |         |
-| Then,             |         |
-| Firstly,          |         |
-| First of all,     |         |
-| Secondly,         |         |
-| Before            |         |
-| Thirdly,          |         |
-| After             |         |
-| During            |         |
-| While             |         |
-| To begin with     |         |
-| At the same time  |         |
-| Simultaneously    |         |
-| After this / that |         |
-| Since             |         |
-| Meanwhile         |         |
-| Afterwards        |         |
-| Following this    |         |
-| When              |         |
-| As soon as        |         |
+| Phrase                   | Example                                                                     |
+| ------------------------ | --------------------------------------------------------------------------- |
+| First, (Second, ...)     | **First,** fold the paper in half.                                          |
+| Firstly, (Secondly, ...) | **Firstly,** a workshop must have a central theme.                          |
+| Lastly,                  | **Lastly,** the course trains students to think logically.                  |
+| First of all,            | **First of all,** let’s set the scene.                                      |
+| To begin with            | **To begin with,** we must consider the faculties of the staff all-sidedly. |
+| Before                   | You must see the inside of a house **before** you buy it.                   |
+| After                    | I felt fairly easy **after** taking the medicine.                           |
+| During                   | The shop will be closed **during** repairs.                                 |
+| Meanwhile,               | Mom worked all day. **Meanwhile,** I was at school.                         |
+| While                    | Don’t talk **while** you’re eating.                                         |
+| When                     | It was raining hard **when** we arrived.                                    |
+| At the same time         | I felt both happy and sad **at the same time**.                             |
+| Simultaneously           | The event will be telecast **simultaneously** to nearly 150 cities.         |
+| After this / that        | **After that** 5-mile run I was completely wiped out.                       |
+| Since                    | Children have been routinely immunized against polio **since** 1958.        |
+| Afterwards               | **Afterwards** I felt a great sense of relief.                              |
+| Following this           | **Following this** we approved most of the detailed proposals.              |
+| Then                     | Bacteria **then** enters the wound and initiates infection.                 |
+| As soon as               | My plants revived **as soon as** I gave them some water.                    |
+
+> - [While vs. When vs. as](https://tw.blog.voicetube.com/archives/8145/%E3%80%90%E5%A4%9A%E7%9B%8A%E5%BF%85%E8%80%83%E3%80%91while%E3%80%81when%E3%80%81as-%E7%94%A8%E6%B3%95%E5%A4%A7%E5%85%AC%E9%96%8B%EF%BC%81/#1_While%E3%80%81when%E3%80%81as)
+> - [While vs. Meanwhile](https://tw.englisher.info/2016/08/11/speaking-english-while-or-meanwhile/)
 
 ## 😁 Adding Information
 
