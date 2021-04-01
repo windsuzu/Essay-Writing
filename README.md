@@ -4,6 +4,23 @@ By learning to use **common phrases** and **set expressions**, you can add varie
 
 Example sentences are searched from https://sentencedict.com/.
 
+## Table of Contents
+
+* [Key Phrases in English](#key-phrases-in-english)
+  * [Table of Contents](#table-of-contents)
+  * [😎 Stating Your Opinion](#-stating-your-opinion)
+  * [😍 Giving Examples](#-giving-examples)
+  * [🤗 Comparing](#-comparing)
+  * [🤔 Generalizing](#-generalizing)
+  * [🙂 Expressing Certainty](#-expressing-certainty)
+  * [🤩 Expressing Partial Agreement](#-expressing-partial-agreement)
+  * [😘 Showing cause](#-showing-cause)
+  * [😆 Showing effect](#-showing-effect)
+  * [😳 Marking time](#-marking-time)
+  * [😁 Adding Information](#-adding-information)
+  * [😤 Expressing condition](#-expressing-condition)
+  * [😣 Concluding](#-concluding)
+
 ## 😎 Stating Your Opinion
 
 | Phrase                 | Example                                                                                            |
@@ -167,20 +184,24 @@ Example sentences are searched from https://sentencedict.com/.
 
 ## 😁 Adding Information
 
-| Phrase      | Example |
-| ----------- | ------- |
-| Furthermore |         |
-| In addition |         |
-| Also        |         |
-| And         |         |
-| Moreover    |         |
-| Similarly   |         |
-| Likewise    |         |
-| As well as  |         |
-| Besides     |         |
-| Too         |         |
-| Even        |         |
-| What’s more |         |
+| Phrase         | Example                                                                              |
+| -------------- | ------------------------------------------------------------------------------------ |
+| Furthermore    | **Furthermore**, they claim that any such interference is completely ineffective.    |
+| In addition    | **In addition**, the first 10 minutes of calls made to a landline are free.          |
+| In addition to | **In addition to** English, she is also learning Japanese.                           |
+| Also           | **Also**, you might get a sunburn.                                                   |
+| And            | **And** if they still don’t like it, here are some more examples of people doing it. |
+| Moreover       | **Moreover**, the problem of antibiotic resistance is global.                        |
+| Similarly      | **Similarly**, business has to enter into agreements.                                |
+| Likewise       | The food here tastes terrible; **likewise**, the service is awful.                   |
+| As well as     | The mind needs exercise **as well as** the body.                                     |
+| Besides        | **Besides** John, everyone else went to the field trip last week.                    |
+| Too            | I **too** was concerned about the projection delay.                                  |
+| Even           | **Even** a superficial inspection revealed serious flaws.                            |
+| What’s more    | **What's more**, it isn't the first time.                                            |
+
+> - [In addition vs. In addition to](https://www.hopenglish.com/hope-tips-the-difference-between-in-addition-and-in-addition-to)
+> - [Besides vs. Except](https://www.hopenglish.com/how-to-use-besides-and-except)
 
 ## 😤 Expressing condition
 
