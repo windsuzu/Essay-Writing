@@ -205,23 +205,23 @@ Example sentences are searched from https://sentencedict.com/.
 
 ## 😤 Expressing condition
 
-| Phrase        | Example |
-| ------------- | ------- |
-| If            |         |
-| Whether       |         |
-| In case       |         |
-| Unless        |         |
-| Provided that |         |
-| So that       |         |
+| Phrase        | Example                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------- |
+| If            | **If** a job is worth doing it is worth doing well.                                     |
+| Whether       | No one knows **whether** the government will pass the bill.                             |
+| In case       | Note down her telephone number **in case** you forget.                                  |
+| Unless        | **Unless** I'm mistaken, she was back at work yesterday.                                |
+| Provided that | **Provided that** you have the money in your account, you can withdraw up to 100 a day. |
+
+> - [If vs. Whether](https://esenglishlounge.com/2016/08/06/%E8%A9%9E%E5%BD%99%E5%8D%80%E5%88%A5-if-%E8%88%87-whether-%E7%9A%84%E7%94%A8%E6%B3%95%E5%8D%80%E5%88%A5-whether-%E5%8F%AF%E4%BB%A5%E5%B8%B6%E5%87%BA%E5%85%A9%E7%A8%AE%E4%BB%A5%E4%B8%8A%E7%9A%84/)
 
 ## 😣 Concluding
 
-| Phrase        | Example |
-| ------------- | ------- |
-| To summarize  |         |
-| In conclusion |         |
-| Lastly,       |         |
-| Finally,      |         |
-| To conclude,  |         |
-| In short,     |         |
-
+| Phrase        | Example                                                                                        |
+| ------------- | ---------------------------------------------------------------------------------------------- |
+| To summarize  | **To summarize**, in most cases the schools were achieving the standards set.                  |
+| In conclusion | **In conclusion**, walking is a cheap, safe, enjoyable and readily available form of exercise. |
+| Lastly,       | **Lastly**, incomes rose and food consumption habits changed.                                  |
+| Finally,      | **Finally**, they arrived at the safety zone.                                                  |
+| To conclude,  | **To conclude**, a basic script recognition system has been demonstrated.                      |
+| In short,     | **In short**, the planning scene had changed fundamentally.                                    |
