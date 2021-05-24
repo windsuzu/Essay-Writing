@@ -1,4 +1,11 @@
 # Eassy Writing
 
-1. [Concise Writing](concise_writing.md)
-2. [Key Phrases in English](key_phrases.md)
+## Basics
+
+1. [Concise Writing](basics/concise_writing.md)
+2. [Key Phrases in English](basics/key_phrases.md)
+
+## Academic Writing
+
+1. [Paragraphs](academic_writing/paragraphs.md)
+2. [Thesis](academic_writing/thesis.md)

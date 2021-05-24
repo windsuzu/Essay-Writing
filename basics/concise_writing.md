@@ -1,6 +1,6 @@
-# Six Steps to More Concise Writing
-
 Techniques are duplicated from [edX - How to Write an Essay](https://learning.edx.org/course/course-v1:BerkeleyX+ColWri2.1x+1T2021/home), thanks to *Maggie Sokolik, Ph.D., Instructor*.
+
+# Six Steps to More Concise Writing
 
 ## Step 1. Avoid redundancy
 
