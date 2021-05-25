@@ -8,4 +8,5 @@
 ## Academic Writing
 
 1. [Paragraphs](academic_writing/paragraphs.md)
-2. [Thesis](academic_writing/thesis.md)
+2. [Thesis Statements](academic_writing/thesis.md)
+3. [Essay](academic_writing/essay.md)
