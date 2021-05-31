@@ -66,3 +66,8 @@ Read the following paragraph and see if you can locate the transitions.
 
 > The concept of fairness is central to understanding plagiarism. Fairness means being fair both to yourself and others. Moreover, everybody both gives and receives their proper due, and nobody has anything to complain about. For example, an incident involving unfairness could be taking someone else’s work and saying it is your own. As a result, the person whose work has been taken receives no credit for their research and thinking. Furthermore, writers who plagiarize are not being fair to themselves because they are not developing their own independent academic skills. Therefore, students who do their own work with proper acknowledgment of the work of others develop their own academic skills and self-confidence far more than those who misuse the work of others.
 > * (Adapted from UNE, 2010 Avoiding coursework plagiarism and academic misconduct: Advice for students.) 
+
+
+# Transition Words and Phrases
+
+![](../assets/transition-words-infographic.jpg)
