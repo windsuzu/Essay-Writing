@@ -40,7 +40,7 @@ The Academic Phrasebank is a general resource for academic writers provided by t
 - One of the most important events of the 1970s was ......
 - Traditionally, `X`s have subscribed to the belief that ......
 - `X` proved an important literary genre in the early `Y` community.
-- The changes e`x`perienced by `X`s over the past decade remain unprecedented.
+- The changes experienced by `X`s over the past decade remain unprecedented.
 
 ## Focus, aim, argument
 
